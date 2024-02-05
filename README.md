@@ -22,3 +22,26 @@ Par exemple, choisissez une couleur et observez comment elle influence le compos
    ```bash
    npm install / yarn
 
+
+# Story-Habits
+
+## Description
+
+Story-Habits is a mini-project focused on productivity, daily routines, todo lists, and some fun features.
+The main goal is to create an engaging user experience by combining task management with elements of storytelling and customization.
+
+## Features
+
+1. **Intuitive Todo List:** Use an intuitive todo list to organize your daily tasks.
+Add, edit, or delete tasks with ease.
+
+2. **Dynamic Storytelling:** Incorporate storytelling elements into your habit management experience.
+Each task can have a brief story or description to make it more captivating.
+
+3. **Playful Customization:** Have fun with customization by integrating playful features. For example, choose a color and see how it influences the component containing your storytelling or task list.
+
+## How to Use
+
+1. **Install Dependencies:**
+   ```bash
+   npm install / yarn
